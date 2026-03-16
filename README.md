@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @Mrghost333
-- 👀 I’m interested in ...coding
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...some experts in coding.
 - 📫 How to reach me ...mnm.mp4@gmail.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
 <!---
